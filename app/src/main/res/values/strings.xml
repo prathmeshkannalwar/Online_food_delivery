@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Feasta</string>
+    <string name="next">Next</string>
+    <string name="enjoy_restaurant_quality_meals_n_at_home">Enjoy restaurant quality meals\n at home!</string>
+    <string name="choose_your_location">Choose Your Location</string>
+    <string name="choose_location">Choose Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_your_favourite_food">Explore Your Favourite Food</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="save_information">Save Information</string>
+</resources>
